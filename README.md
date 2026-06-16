@@ -92,7 +92,7 @@ Built with **FastAPI**, **LangGraph**, **Google Gemini**, **PostgreSQL + pgvecto
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 
@@ -311,7 +311,7 @@ POST /chat
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Multi-modal document support
 * OCR pipeline
@@ -324,7 +324,7 @@ POST /chat
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome.
 
